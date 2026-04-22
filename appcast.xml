@@ -54,6 +54,21 @@
                  length="1887721"
                  type="application/octet-stream"/>
     </item>
+        <item>
+      <title>v0.2.2</title>
+      <pubDate>三, 22  4月 2026 14:59:49 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>VibeBuddy v0.2.2</h2>
+        <p>Release notes: https://github.com/gxcsoccer/vibebuddy/releases/tag/v0.2.2</p>
+      ]]></description>
+      <enclosure url="https://github.com/gxcsoccer/vibebuddy-releases/releases/download/v0.2.2/VibeBuddy-0.2.2.dmg"
+                 sparkle:edSignature="gi0rPDgFqVKKEIreMiig0EJutuakKrLNnhty2+xI/gwVvjuok/E4zvLHwIbblJbrIMDvQu2kDK6DeXpA7yAaBQ=="
+                 length="1910846"
+                 type="application/octet-stream"/>
+    </item>
     <!-- VIBEBUDDY_RELEASES_INSERT_HERE -->
   </channel>
 </rss>
