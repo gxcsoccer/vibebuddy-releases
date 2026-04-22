@@ -9,6 +9,21 @@
       `scripts/release-macos.sh` (in source repo) inserts each new <item>
       block above the marker. Sparkle picks the highest sparkle:version.
       -->
+        <item>
+      <title>v0.1.3</title>
+      <pubDate>Wed, 22 Apr 2026 07:17:00 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>VibeBuddy v0.1.3</h2>
+        <p>Release notes: https://github.com/gxcsoccer/vibebuddy/releases/tag/v0.1.3</p>
+      ]]></description>
+      <enclosure url="https://github.com/gxcsoccer/vibebuddy-releases/releases/download/v0.1.3/VibeBuddy-0.1.3.dmg"
+                 sparkle:edSignature="ZyRbkyktd1yZv4iyYLJlmU5jOeFZttF4y6UZJN9V9xd4GJjSHmKp8rDr+Uzf52tzUgJuLeiOZVn+LY6ubXMxCQ=="
+                 length="1829662"
+                 type="application/octet-stream"/>
+    </item>
     <!-- VIBEBUDDY_RELEASES_INSERT_HERE -->
   </channel>
 </rss>
