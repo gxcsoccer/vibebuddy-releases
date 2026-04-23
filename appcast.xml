@@ -99,6 +99,21 @@
                  length="1946543"
                  type="application/octet-stream"/>
     </item>
+        <item>
+      <title>v0.3.2</title>
+      <pubDate>Thu, 23 Apr 2026 13:26:40 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>VibeBuddy v0.3.2</h2>
+        <p>Release notes: https://github.com/gxcsoccer/vibebuddy/releases/tag/v0.3.2</p>
+      ]]></description>
+      <enclosure url="https://github.com/gxcsoccer/vibebuddy-releases/releases/download/v0.3.2/VibeBuddy-0.3.2.dmg"
+                 sparkle:edSignature="a4KRflZWNwOSpvU0FH7tjfo6pVhXneovvYRpNARytq9es3H+1jCXjNAZo11j1Z8jkaKm+BgPXSctt12DPD8ODA=="
+                 length="2286904"
+                 type="application/octet-stream"/>
+    </item>
     <!-- VIBEBUDDY_RELEASES_INSERT_HERE -->
   </channel>
 </rss>
