@@ -184,7 +184,7 @@
         <h2>Aime Buddy v0.4.3</h2>
         <p>Release notes: https://github.com/gxcsoccer/vibebuddy/releases/tag/v0.4.3</p>
       ]]></description>
-      <enclosure url="https://tosv.byted.org/obj/griffin/aime-app/release/Aime%20Buddy-0.4.3.dmg"
+      <enclosure url="https://github.com/gxcsoccer/vibebuddy-releases/releases/download/v0.4.3/Aime.Buddy-0.4.3.dmg"
                  sparkle:edSignature="040jqXaCbkhfNegeIX4N8vjbFWBqHlsFb91H3vmhopvdfU/BUzskJMJ0/8EDhO6S+XaqyJIxP2/XkK3fHTQZCw=="
                  length="5975891"
                  type="application/octet-stream"/>
