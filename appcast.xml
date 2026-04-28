@@ -189,6 +189,21 @@
                  length="5975891"
                  type="application/octet-stream"/>
     </item>
+        <item>
+      <title>v0.4.4</title>
+      <pubDate>Tue, 28 Apr 2026 07:44:31 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Aime Buddy v0.4.4</h2>
+        <p>Release notes: https://github.com/gxcsoccer/vibebuddy/releases/tag/v0.4.4</p>
+      ]]></description>
+      <enclosure url="https://github.com/gxcsoccer/vibebuddy-releases/releases/download/v0.4.4/Aime.Buddy-0.4.4.dmg"
+                 sparkle:edSignature="pRaitRbMPk9QtsjopcYYyVIrTTKSICZkiiroEQGgDpIyNcmvCIgeQ6zRSEYO7l7leX9LI494MYQcaC9D/aBVCw=="
+                 length="5975881"
+                 type="application/octet-stream"/>
+    </item>
     <!-- VIBEBUDDY_RELEASES_INSERT_HERE -->
   </channel>
 </rss>
