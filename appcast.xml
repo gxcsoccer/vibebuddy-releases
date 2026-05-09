@@ -287,7 +287,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
         <h2>Aime Buddy v0.6.2</h2>
-        <p>Release notes: https://github.com/gxcsoccer/vibebuddy-releases/releases/tag/v0.6.2</p>
+        <p>Bugfix.</p>
       ]]></description>
       <enclosure url="https://github.com/gxcsoccer/vibebuddy-releases/releases/download/v0.6.2/Aime.Buddy-0.6.2.dmg"
                  sparkle:edSignature="hBgCPZPJ/f/5DARgtoWTLWfVyDa7WsOy3fQEg6yZhklYNAKmPqApokwyQCvOwjf+/ziMptFoc3eXLtM2EDf1BQ=="
