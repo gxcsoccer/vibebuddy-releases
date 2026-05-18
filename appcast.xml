@@ -317,7 +317,13 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
         <h2>Aime Buddy v0.7.1</h2>
-        <p>Release notes: https://github.com/gxcsoccer/vibebuddy-releases/releases/tag/v0.7.1</p>
+        <ul>
+          <li>多 Agent 并行追踪：主对话停了但后台 Subagent 还在跑时不再误弹「忙完了」，胶囊实时显示「运行 X · 后台 N」</li>
+          <li>兼容 Cursor Agents Window 和 Multitask</li>
+          <li>终端里答完 Plan / AskUserQuestion 后，桌面提醒自动消失，不再卡住</li>
+          <li>Aime 装完即识别，不用重启 Aime Buddy</li>
+          <li>稳定性 / 性能修复</li>
+        </ul>
       ]]></description>
       <enclosure url="https://github.com/gxcsoccer/vibebuddy-releases/releases/download/v0.7.1/Aime.Buddy-0.7.1.dmg"
                  sparkle:edSignature="C8cEYhguce73EaslWX+qkXGOOx0EdXZNIQkFB2n4Qugp9hZXcXKp7zDb7i6fEY4CifRQ6areNQY+8fQMbZjdCg=="
